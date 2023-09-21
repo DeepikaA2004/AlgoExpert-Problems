@@ -9,7 +9,7 @@ array=[3,5,-4,8,11,1,-1,6]
 targetsum=10
 
 3) TIME COMPLEXITY - O(N)
-   SPACE COMPLEXITY- O(1)(hashmap)
+   SPACE COMPLEXITY- O(1)
   
    VALIDATE SUBSEQUENCE
 Given two non-empty arrays of integers, write a function that determines whether the second array is a subsequence of the first one.
