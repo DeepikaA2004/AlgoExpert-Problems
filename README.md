@@ -1,5 +1,6 @@
 # AlgoExpert-Problems
 ## PROBLEM STATEMENTS
+### I practice both JAVA and PYTHON codes for the below-given problem statements
 
 1) Let us consider the input as abc12Abc2 if there are any numbers found in the input append the numbers alone in the front of the input and replace 0 wherever the number presence of the number occurs like 221abc00Abc0 Then if the uppercase elements are found swap the elements after swapping the element place * in the right side of the uppercase element after swapping and make the reverse process we get an actual input as output as abc12Abc2.
    
@@ -41,3 +42,4 @@ for example, if you're given coins = [1,2,5] the minimum amount of change that y
 SAMPLE INPUT : [5,7,1,1,2,3,22]
 SAMPLE OUTPUT: 20
 develop this constraint using Java
+
